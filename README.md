@@ -35,7 +35,7 @@ If you want to use the ready-to-go gesture recognition algorithm trained with th
 9. Shuffle the array, and split it to train and test sets. Save the sets as ***trainData.txt*** and ***evaluateData.txt*** csv files in the ***Python*** folder.
 10. Run the ***findSVMParameters*** Python script from the ***Python*** folder. The script will print in the console the fitting results with different parameters as well as the best parameters.
 11. Using micromlgen Python library, generate a SVM model C-file. Save it as a ***predict_class.h*** header file.
-12. Upload the existing ***predict_class*** in the ***ttgo/src*** directory.
+12. Upload the ***predict_class*** file in the ***ttgo/src*** directory. Allow for overwriting the existing file.
 13. Using PlatformIO, open the ***ttgo*** folder as a project.
 14. Compile and upload the project to the watch.
 15.  Connect the watch to your computer from a Bluetooth Serial Terminal.
