@@ -13,7 +13,7 @@ In order to use the files from the repo you will need:
 - Arduino IDE
 - Bluetooth serial terminal
 
-## Using the existent gestures
+## Using the existing gestures
 
 If you want to use the ready-to-go gesture recognition algorithm trained with the ten gestures definied by us please follow the below instructions. To see the gestures, go to the **Gestures** section. The accuracy that we obtained using this algorithm was 93%. **In case you want to train the algorithm with your own gestures, proceed to the next section.**
 
