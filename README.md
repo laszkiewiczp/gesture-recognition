@@ -15,7 +15,7 @@ In order to use the files from the repo you will need:
 
 ## Using the existent gestures
 
-If you want to use the ready-to-go gesture recognition algorithm trained with the ten gestures definied by us (see more in Wearables) please follow the below instructions. The accuracy that we obtained using this algorithm was 93%. **In case you want to train the algorithm with your own gestures, proceed to the next section.**
+If you want to use the ready-to-go gesture recognition algorithm trained with the ten gestures definied by us please follow the below instructions. To see the gestures, go to the **Gestures** section. The accuracy that we obtained using this algorithm was 93%. **In case you want to train the algorithm with your own gestures, proceed to the next section.**
 
 1. Using PlatformIO, open the ***ttgo*** folder as a project.
 2. Compile and upload the project to the watch.
@@ -40,3 +40,57 @@ If you want to use the ready-to-go gesture recognition algorithm trained with th
 14. Compile and upload the project to the watch.
 15.  Connect the watch to your computer from a Bluetooth Serial Terminal.
 16.  Double-tap the screen of the watch and perform a gesture after you feel the vibration. The number of the recognized gesture will be sent to the Bluetooth Serial Terminal.
+
+## Gestures
+
+This section contains labels of gestures and GIFs showing them.
+
+### 1. Throw hand out in elbow
+<p align="center">
+<img src="/gestures-gifs/gif001.gif" width=350 height=350>
+</p>
+
+### 2. Throw your hand out in the elbow and go back
+<p align="center">
+<img src="/gestures-gifs/gif002.gif" width=350 height=350>
+  </p>
+
+### 3. Throw hand up (like 2 minutes in handball)
+<p align="center">
+<img src="/gestures-gifs/gif003.gif" width=350 height=350>
+  </p>
+
+### 4. Hit your palm with your fist
+<p align="center">
+<img src="/gestures-gifs/gif004.gif" width=350 height=350>
+  </p>
+
+### 5. Elevate your hand horizontally
+ <p align="center">
+<img src="/gestures-gifs/gif005.gif" width=350 height=350>
+  </p>
+
+### 6. Elevate your hand horizontally and go back down
+ <p align="center">
+<img src="/gestures-gifs/gif006.gif" width=350 height=350>
+   </p>
+
+### 7. Put your hand down horizontally
+<p align="center">
+<img src="/gestures-gifs/gif007.gif" width=350 height=350>
+   </p>
+
+### 8. Put your hand down horizontally and go back up
+<p align="center">
+<img src="/gestures-gifs/gif008.gif" width=350 height=350>
+  </p>
+
+### 9. Make a small clockwise circle with your hand
+<p align="center">
+<img src="/gestures-gifs/gif009.gif" width=350 height=350>
+ </p>
+
+### 10. Make a small counter-clockwise circle with your hand
+ <p align="center">
+<img src="/gestures-gifs/gif010.gif" width=350 height=350>
+      </p>
