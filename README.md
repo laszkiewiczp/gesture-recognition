@@ -66,9 +66,7 @@ end
 
 ## Pre-defined gestures
 
-This section contains labels of gestures and GIFs showing them. Note that the algorithm returns a number from range 0-9, not from 1-10.
-<p>&nbsp;</p>
-
+This section contains labels of gestures and GIFs showing them. Note that the algorithm returns a number from range 0-9, and not 1-10.
 
 ### 1. Throw hand out in elbow
 <p align="center">
