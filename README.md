@@ -9,7 +9,7 @@ This project was used for the preparation of the Wearables app for the European 
 [Requirements](https://github.com/laszkiewiczp/gesture-recognition#requirements)  
 [Using the exisitng gestures](https://github.com/laszkiewiczp/gesture-recognition#using-the-existing-gestures)  
 [Creating gesture recognition algorithm with your own gestures](https://github.com/laszkiewiczp/gesture-recognition#creating-gesture-recognition-algorithm-with-your-own-gestures)  
-[Example of generating a feature array](https://github.com/laszkiewiczp/gesture-recognition#requirements)  
+[Example of generating a feature array](https://github.com/laszkiewiczp/gesture-recognition#example-of-generating-a-feature-array)  
 [Pre-defined gestures](https://github.com/laszkiewiczp/gesture-recognition#pre-defined-gestures)  
 
 
