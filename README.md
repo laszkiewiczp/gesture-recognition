@@ -1,6 +1,6 @@
 # Gesture recognition for LILYGO TTGO T-Watch
 
-This repo contains scripts for generating data, calculating features, finding the best SVM model, and using the gesture recognition algorithm with LILYGO TTGO T-Watch. Data collected while working on the project has also been inlcuded.
+This repo contains scripts for generating data, calculating features, finding the best SVM model, and using the gesture recognition algorithm with LILYGO TTGO T-Watch. Data collected while working on the project has also been included.
 
 This project was used for the preparation of the Wearables app (https://github.com/lukawitek000/wearables-mobile-app) for the European Project Semester 2021 at the Universitat Politècnica de València.
 
